@@ -1,0 +1,8 @@
+D:\Assisted project\ass-section-6(1)\ass-section-6(1)\bin\Debug\ass-section-6(1).exe.config
+D:\Assisted project\ass-section-6(1)\ass-section-6(1)\bin\Debug\ass-section-6(1).exe
+D:\Assisted project\ass-section-6(1)\ass-section-6(1)\bin\Debug\ass-section-6(1).pdb
+D:\Assisted project\ass-section-6(1)\ass-section-6(1)\obj\Debug\ass-section-6(1).csproj.AssemblyReference.cache
+D:\Assisted project\ass-section-6(1)\ass-section-6(1)\obj\Debug\ass-section-6(1).csproj.SuggestedBindingRedirects.cache
+D:\Assisted project\ass-section-6(1)\ass-section-6(1)\obj\Debug\ass-section-6(1).csproj.CoreCompileInputs.cache
+D:\Assisted project\ass-section-6(1)\ass-section-6(1)\obj\Debug\ass-section-6(1).exe
+D:\Assisted project\ass-section-6(1)\ass-section-6(1)\obj\Debug\ass-section-6(1).pdb
